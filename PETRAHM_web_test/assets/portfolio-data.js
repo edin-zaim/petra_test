@@ -126,7 +126,7 @@ const portfolioData = [
     name: "Caria Nova, Bodrum a Tribute Portfolio Hotel ",
     image: "./assets/images/WebVisuals_hotel-13-koyunbaba-bodrum.jpg",
     status: "underconstruction",
-    rooms: 26,
+    rooms: 40,
     location: "Bodrum, Türkiye",
     tags: ""
   },
